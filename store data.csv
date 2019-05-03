@@ -1,0 +1,25 @@
+﻿store_id,store_country,store_state,store_city,region_id,store_name,store_phone,Total Transactions
+1,Mexico,Guerrero,Acapulco,28,Store 1,262-555-5124,8473
+2,USA,WA,Bellingham,78,Store 2,605-555-8203,2769
+3,USA,WA,Bremerton,76,Store 3,509-555-1596,16598
+4,Mexico,Zacatecas,Camacho,27,Store 4,304-555-1474,8267
+5,Mexico,Jalisco,Guadalajara,4,Store 5,801-555-4324,1470
+6,USA,CA,Beverly Hills,47,Store 6,958-555-5002,14775
+7,USA,CA,Los Angeles,3,Store 7,477-555-7967,16726
+8,Mexico,Yucatan,Merida,26,Store 8,797-555-3417,13014
+9,Mexico,DF,Mexico City,2,Store 9,439-555-3524,3817
+10,Mexico,Veracruz,Orizaba,24,Store 10,212-555-4774,8744
+11,USA,OR,Portland,22,Store 11,685-555-8995,17286
+12,Mexico,Zacatecas,Hidalgo,25,Store 12,151-555-1702,13215
+13,USA,OR,Salem,23,Store 13,977-555-2724,25865
+14,USA,CA,San Francisco,1,Store 14,135-555-4888,2766
+15,USA,WA,Seattle,18,Store 15,893-555-1024,17447
+16,USA,WA,Spokane,87,Store 16,643-555-3645,16517
+17,USA,WA,Tacoma,84,Store 17,855-555-5581,23600
+18,Mexico,Zacatecas,Hidalgo,25,Store 18,528-555-8317,3469
+19,Canada,BC,Vancouver,5,Store 19,862-555-7395,12770
+20,Canada,BC,Victoria,6,Store 20,897-555-1931,3321
+21,Mexico,DF,San Andres,106,Store 21,493-555-4781,12337
+22,USA,WA,Walla Walla,88,Store 22,881-555-5117,2817
+23,USA,WA,Yakima,89,Store 23,170-555-8424,7107
+24,USA,CA,San Diego,7,Store 24,111-555-0303,16550
